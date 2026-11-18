@@ -1,0 +1,9 @@
+# build output from dotnet
+bin/
+obj/
+TestResults/
+.vs/
+
+# python
+__pycache__/
+*.pyc
